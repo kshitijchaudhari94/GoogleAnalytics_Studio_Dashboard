@@ -7,7 +7,9 @@ A. Google Analytics:
 Plot a chart showing the comparison of transactions, E-Commerce Conversion Rate and revenue in the month of November, 2022 with respect to the previous month i.e. October, 2022.
 
 a. What is the highest transactions, E-Commerce Conversion Rate and revenue in the month of November, 2022 and on which dates?
+
 b. Are there any common dates on which transactions, E-Commerce Conversion Rate and revenue were the same w.r.t. the previous month?
+
 c. What is the average of transactions, E-Commerce Conversion Rate w.r.t. the previous month?
 
 Plot a chart showing the comparison of transactions, E-Commerce Conversion Rate and revenue for the different channel groups.
