@@ -75,6 +75,7 @@ Funnel Visualization:
 
 Add a Metric Funnel under Community visualisations in Data Studio showing the following processes in the funnel: Total Engaged Users - Users who completed the registrations - Users who added items to card - Users who entered Checkout - users who completed Payment.
 
+APPROACH: 
 
 Developed a dashboard that utilized an analysis of user behavior to identify opportunities for enhancing the Google Merchandise Store website, aiming
 to increase sales and revenue. 
