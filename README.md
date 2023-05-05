@@ -74,3 +74,11 @@ b. Number of sessions for each referral.
 Funnel Visualization:
 
 Add a Metric Funnel under Community visualisations in Data Studio showing the following processes in the funnel: Total Engaged Users - Users who completed the registrations - Users who added items to card - Users who entered Checkout - users who completed Payment.
+
+
+Developed a dashboard that utilized an analysis of user behavior to identify opportunities for enhancing the Google Merchandise Store website, aiming
+to increase sales and revenue. 
+
+More precisely to gain insights, utilized functionalities like Funnel Analytics and Cohort Analytics available in Google Analytics to gather valuable insights. 
+
+The findings derived from the analysis carried out will be applied to optimize the Google Merchandise Store website, improve the user experience, increase the conversion rates, and ultimately stimulate growth in sales and revenue. 
